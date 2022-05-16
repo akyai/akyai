@@ -1,5 +1,5 @@
 :)
-div align="center">
+<div align="center">
     <h3> my statistics</h3>
     <img src="https://activity-graph.herokuapp.com/graph?username=akyai"><br /><br />
     <img src="https://github-readme-stats.vercel.app/api?username=akyai&show_icons=true&theme=jolly&count_private=true" /><br /><br />
